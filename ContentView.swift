@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  iExpense
 //
-//  Created by David Tran on 10/12/22.
+//  Created by David on 10/12/22.
 //
 
 import SwiftUI
